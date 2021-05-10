@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\PC\source\repos\calculate_string\calculate_string\Source.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\calculate_string\calculate_string\Source.cpp(37,13): warning C4018: '<': signed/unsigned mismatch
+  calculate_string.vcxproj -> C:\Users\PC\source\repos\calculate_string\Debug\calculate_string.exe
